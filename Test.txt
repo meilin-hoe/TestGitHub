@@ -2,6 +2,13 @@ This is for testing git (develop).
 #1
 #2
 
+Function
+--------
+
+funtion addition(a,b) {
+	return a+b;
+}
+
 funtion subtraction(a,b) {
 	return a-b;
 }
