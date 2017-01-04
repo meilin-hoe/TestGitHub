@@ -1,3 +1,7 @@
 This is for testing git (develop).
 #1
 #2
+
+funtion subtraction(a,b) {
+	return a-b;
+}
