@@ -27,3 +27,8 @@ function divide(a,b)
 	//b cannot be 0.
 	return a/b;
 }
+
+function addMultiple(double[] values)
+{
+	return;
+}
