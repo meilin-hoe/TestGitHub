@@ -28,6 +28,11 @@ function divide(a,b)
 	return a/b;
 }
 
+function addMultiple(int[] values)
+{
+	//do it later
+	return;
+}
 function addMultiple(double[] values)
 {
 	return;
