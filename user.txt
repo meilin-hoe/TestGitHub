@@ -2,3 +2,8 @@ function getUsername()
 {
 	return username;
 }
+
+function getRace()
+{
+	return race;
+}
