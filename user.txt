@@ -7,3 +7,8 @@ function getRace()
 {
 	return race;
 }
+
+function getSex()
+{
+	return sex;
+}
