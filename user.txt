@@ -1,0 +1,4 @@
+function getUsername()
+{
+	return username;
+}
