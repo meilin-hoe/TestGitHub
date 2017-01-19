@@ -2,3 +2,8 @@ function getUsername()
 {
 	return username;
 }
+
+function getAge()
+{
+	return age;
+}
