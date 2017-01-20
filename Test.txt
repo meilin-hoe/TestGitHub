@@ -11,3 +11,8 @@ function multiply(int x, int y)
 {
 	return x * y;
 }
+
+function divide(int x, int y)
+{
+ return x / y;
+}
