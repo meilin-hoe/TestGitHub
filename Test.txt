@@ -6,3 +6,8 @@ function addition(int x, int y)
 {
 	return x + y;
 }
+
+function multiply(int x, int y)
+{
+	return x * y;
+}
