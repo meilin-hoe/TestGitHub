@@ -1,3 +1,8 @@
 This is for testing git.
 #1
 #2
+
+function addition(int x, int y)
+{
+	return x + y;
+}
